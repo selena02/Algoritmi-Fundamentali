@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1672763374 source:c:\users\selen\desktop\af\tema 3 af\problema 4 mai bag o fisa\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<climits>
+
+1672769309 source:c:\users\selen\desktop\af\tema 3 af\problema 4 obligatorie\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<climits>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1672669770 source:c:\users\selen\desktop\af\tema 3 af\problema 1 obligatorie b\main.cpp
+	<iostream>
+	<fstream>
+	<climits>
+	<vector>
+	<queue>
+	<string.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1672419968 source:c:\users\selen\desktop\af\tema 2 af\problema 1 obligatorie a\main.cpp
+	<iostream>
+	<fstream>
+	<climits>
+	<vector>
+	<queue>
+
+1672428436 source:c:\users\selen\desktop\af\tema 3 af\problema 1 obligatorie a\main.cpp
+	<iostream>
+	<fstream>
+	<climits>
+	<vector>
+	<queue>
+
